@@ -1,0 +1,9 @@
+:root{
+  --text-color: #ffffff;
+  --card-front-color: #ffffff;
+  --card-back-color: #ffffff;
+}
+body{
+    background-image: url(img/jogos.png);
+    font-family: Arial, Helvetica, sans-serif;
+}
